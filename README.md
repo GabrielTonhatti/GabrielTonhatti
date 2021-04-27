@@ -6,5 +6,5 @@ Hello, I am Gabriel
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Estudos-JavaScript&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Estudos-JavaScript&theme=dracula&show_owner=true)](https://github.com/GabrielTonhatti/Estudos-JavaScript)
 
