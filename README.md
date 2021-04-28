@@ -9,7 +9,7 @@ Hello, I am Gabriel!
   <img align="left" alt="Gabriel Tonhatti | Twitter" width="90px" height = "30px" src="https://i3.wp.com/www.mundorh.com.br/wp-content/uploads/2016/09/linkedin-1.jpg" />
 </a>
 <a href="https://www.facebook.com/Gabriel.Tonhatti.1">
-  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" height = "30px" src="https://www.casalnerdnocanada.com.br/wp-content/uploads/2017/02/logo-facebook.png" />
+  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" height = "30px" src="https://i1.wp.com/www.telesintese.com.br/wp-content/uploads/2016/09/facebook-flat-vector-logo-400x400.png?fit=400%2C400&ssl=1" />
 </a>
 <a href="https://www.instagram.com/gabrieltonhatti/">
   <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" height = "30px" src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" />
