@@ -3,7 +3,7 @@ Hello, I am Gabriel!
 ### 💬 About me:
 
 <a href="https://twitter.com/GTonhatti">
-  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkSwszei1ZNoZFIuin8dUm8rCNCL6m5GWfEw&usqp=CAU" />
+  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" />
 </a>
 <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/">
   <img align="left" alt="Gabriel Tonhatti | Twitter" width="90px" height = "30px" src="https://i3.wp.com/www.mundorh.com.br/wp-content/uploads/2016/09/linkedin-1.jpg" />
