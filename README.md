@@ -1,6 +1,6 @@
 <b> Hello, I am Gabriel! </b>
 ====================
-### 💬 About me:
+### <b> 💬 About me:</b>
 
 <a href="https://twitter.com/GTonhatti">
   <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://i.pinimg.com/originals/28/90/ba/2890bac9ba41e52707f36268231dfe9e.png" />
@@ -22,7 +22,7 @@
 
   
 
-### 📖 Knowledge:
+### <b> 📖 Knowledge:</b>
 
 - <b> Front-end: </b>
  ![HTML](https://camo.githubusercontent.com/cfdb48c5b546d4e05cc4b44bef33280591c4df29a5b75418bce9f45ad6f9253f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666)
@@ -31,7 +31,7 @@
 - <b> Back-end: </b>
 ![JavaScript](https://camo.githubusercontent.com/621c38293a70f2ef1aff6cf0bb6b37058c4377b4a5c2bd3f53ceea28cc32957c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d30303030303026636f6c6f723d464643453541)
 
-### 📈 GitHub Stats:
+### <b>📈 GitHub Stats:</b>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
