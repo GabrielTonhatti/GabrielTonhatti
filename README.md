@@ -1,4 +1,4 @@
-Hello, I am Gabriel!
+<b> Hello, I am Gabriel! </b>
 ====================
 ### 💬 About me:
 
