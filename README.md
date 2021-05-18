@@ -36,7 +36,6 @@
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Estudos-JavaScript&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/Estudos-JavaScript)
 
 
