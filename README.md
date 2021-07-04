@@ -3,7 +3,7 @@
 ### <b> 💬 About me:</b>
 
 <a href="https://twitter.com/GTonhatti">
-  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/">
   <img align="left" alt="Gabriel Tonhatti | LinkeIn" height = "30px" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
