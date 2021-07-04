@@ -2,20 +2,22 @@
 ====================
 ### <b> 💬 About me:</b>
 
-<a href="https://twitter.com/GTonhatti">
-  <img align="left" alt="Gabriel Tonhatti | Twitter" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/">
-  <img align="left" alt="Gabriel Tonhatti | LinkeIn" height = "30px" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
-</a>
-<a href="https://www.facebook.com/Gabriel.Tonhatti.1">
-  <img align="left" alt="Gabriel Tonhatti | Facebook" width="30px" height = "30px" src="https://i1.wp.com/www.telesintese.com.br/wp-content/uploads/2016/09/facebook-flat-vector-logo-400x400.png?fit=400%2C400&ssl=1" />
-</a>
-<a href="https://www.instagram.com/gabrieltonhatti/">
-  <img align="left" alt="Gabriel Tonhatti | Instagram" width="30px" height = "30px" src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" />
-</a>
-<a address="mailto:gabrieltonhatti37@gmail.com" alt="Gmail">
-  <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=karen.abib@gmail.com" /></a>
+<p align="left">
+
+  <a href="https://www.instagram.com/gabrieltonhatti/">
+    <img alt="Gabriel Tonhatti | Instagram" width="30px" height = "30px" src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin">
+    <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
+  </a>
+  <a href="https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook">
+    <img height=30 src="https://img.shields.io/badge/-Facebook-0178f8?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/Gabriel.Tonhatti.1" />
+  </a>
+  <a address="mailto:gabrieltonhatti37@gmail.com" alt="Gmail">
+    <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=karen.abib@gmail.com" />
+  </a>
+
+</p>
 
    My name's Gabriel Tonhatti Cardoso, I'm 20 years old, I'm studying Analysis and systems development in the Fatec - Franca. I living in Franca-SP in Brazil, I'm passionate for technology and want to go to the CyberSecurity area, but I also like to work with website creation using JavaScript, Html and CSS, I also want learn PHP, Java and other programming language. I like working on the Back-end more than on the Front-end, so I focus in learning JavaScript more.
 
@@ -24,17 +26,33 @@
 ### <b> 📖 Knowledge:</b>
 
 * <b> Front-end: </b>
-  + ![HTML](https://camo.githubusercontent.com/cfdb48c5b546d4e05cc4b44bef33280591c4df29a5b75418bce9f45ad6f9253f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666)
-  + ![CSS](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
-
+  + <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code>
+  <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code>-->
+  + <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+ 
 * <b> Back-end: </b>
-  + ![JavaScript](https://camo.githubusercontent.com/621c38293a70f2ef1aff6cf0bb6b37058c4377b4a5c2bd3f53ceea28cc32957c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d30303030303026636f6c6f723d464643453541)
-  <!-- + <img src = "https://miro.medium.com/max/1004/1*ZfCTE6kZArxc0Nr_MybXPQ.png" alt="TypeScript"  width="85px" height = "20px">
-  + ![PHP](https://camo.githubusercontent.com/21718c1a4a9c92ba404f03f3e4b461642feb157226f308f3fd830ee1cd3dbedc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d666666666666) -->
+  + <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
+  <!-- + <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="TypeScript"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=" alt="Laravel"/></code> -->
+  
 
+<!-- * <b> DataBase: </b>
+  +  <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=" alt="MySQL"/></code>
+  +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code> -->
+
+<!-- * <b> Mobile: </b>
+  + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin" alt="Kotlin"/></code>
+     -->
 * <b> Tools: </b>
-  + ![VsCode](https://camo.githubusercontent.com/3f238f4debaebac55e4eddd1cfbf4d82cebc3657f184ffae03ac609b5047f274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3137313631353f7374796c653d666c6174266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d776869746526636f6c6f723d303338346663)
-  + ![AdobeXD](https://camo.githubusercontent.com/44b77bcaadf3a7e9983592c2a134b56ae808ca192c7d7dde7805fdf23cafa7ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f626558442d6663303364373f7374796c653d666c6174266c6f676f3d61646f6265266c6f676f436f6c6f723d626c61636b)
+  + <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
+  +  <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
+  
 
 ### <b>📈 GitHub Stats:</b>
 
