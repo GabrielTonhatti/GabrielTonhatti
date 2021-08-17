@@ -54,9 +54,9 @@
       - <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
       - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code> -->
 
-<!-- * ### <b> DataBase: </b>
-  +  <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=" alt="MySQL"/></code>
-  +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code> -->
+* ### <b> DataBase: </b>
+  +  <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql" alt="MySQL"/></code>
+  <!-- +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code> -->
 
 <!-- * ### <b> Mobile: </b>
   + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
