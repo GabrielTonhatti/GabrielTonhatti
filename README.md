@@ -66,8 +66,11 @@
 * ### <b> Tools: </b>
   + <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
-  +  <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
-  
+  + <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
+  <!-- + <code><img height="25" src="https://img.shields.io/badge/-PhpStorm-9644e7?style=flat&logo=PhpStorm&logoColor=black" alt="PhpStorm"/></code> -->
+  + <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
+  <!-- + <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA"/></code>
+   -->
 
 ## <b>📈 GitHub Stats:</b>
 
