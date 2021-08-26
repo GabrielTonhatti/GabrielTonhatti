@@ -41,9 +41,9 @@
     - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code> -->
     
 * ### <b> Back-end: </b>
+   + <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
-  <!-- + <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
+  <!--+ <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="TypeScript"/></code> -->
   
@@ -55,8 +55,8 @@
       - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code> -->
 
 * ### <b> DataBase: </b>
-  +  <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql" alt="MySQL"/></code>
-  <!-- +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code> -->
+  +  <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
+  +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
 
 <!-- * ### <b> Mobile: </b>
   + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
@@ -69,8 +69,8 @@
   + <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
   <!-- + <code><img height="25" src="https://img.shields.io/badge/-PhpStorm-9644e7?style=flat&logo=PhpStorm&logoColor=black" alt="PhpStorm"/></code> -->
   + <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
-  <!-- + <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA"/></code>
-   -->
+  + <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA"/></code>
+  
 
 ## <b>📈 GitHub Stats:</b>
 
