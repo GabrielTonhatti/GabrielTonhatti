@@ -35,25 +35,25 @@
 
   <!-- + ### <b> Libraries and Frameworks </b>
      - <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
-      - <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
+          - <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/jQuery-0069b2?style=flat&logo=JQuery&logoColor=21ace2" alt="JQuery"/></code>
      - <code><img height="25" src="https://img.shields.io/badge/Angular-ffffff?style=flat&logo=Angular&logoColor=dd0031" alt="Angular"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code> -->
-    
+  
 * ### <b> Back-end: </b>
    + <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
   <!--+ <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="TypeScript"/></code> -->
+  + <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="Python"/></code> -->
   
-  <!-- + ### <b> Libraries and Frameworks </b>
+  + ### <b> Libraries and Frameworks </b>
     - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
-     - <code><img height="25" src="https://img.shields.io/badge/Asp.Net-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
-      - <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
-      - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code> -->
-
+    <!-- - <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Asp.Net-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code>  -->
+   
 * ### <b> DataBase: </b>
   +  <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
   +  <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
