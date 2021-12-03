@@ -20,10 +20,7 @@
 </p>
 
    My name's Gabriel Tonhatti Cardoso, I'm 20 years old, I'm studying Analysis and systems development in the <a href = "https://site.fatecfranca.edu.br/">Fatec - Franca</a>, I'm currently working at <a href = "https://mazzafc.tech/">MazzaFC</a> like a Quality Assurance. I living in Franca-SP in Brazil, I'm passionate for technology and want to go to the CyberSecurity area, but I also like to work with website creation using JavaScript, Html and CSS, I also want learn C#, Java and other programming language. I like working on the Back-end more than on the Front-end, so I focus in learning Java and JavaScript more.
-
-
-  
-
+   
 ## <b> 📖 Knowledge:</b>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -31,9 +28,9 @@
 * ### <b> Front-end: </b>
   + <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code>
-  <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code>
-   + <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code> -->
   + <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+   + <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code>
+  <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code> -->
 
    <!-- + ### <b> Libraries and Frameworks </b>
       - <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
