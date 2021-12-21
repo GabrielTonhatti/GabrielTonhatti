@@ -82,7 +82,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, I'm studying Analysis and 
 
 ## <b>📈 GitHub Stats:</b>
 
-<div align="center">
+<div align="left">
 
 <!-- ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true) -->
 <a href="https://github.com/GabrielTonhatti">
