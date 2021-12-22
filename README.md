@@ -19,7 +19,7 @@
 
 </p>
 
-My name's Gabriel Tonhatti Cardoso, I'm 20 years old, I'm studying Analysis and systems development in the <a href = "https://site.fatecfranca.edu.br/">Fatec - Franca</a>, I'm currently working at <a href = "https://mazzafc.tech/">MazzaFC</a> like a Quality Assurance. I living in Franca-SP in Brazil, I'm passionate for technology and want to go to the CyberSecurity area, but I also like to work with website creation using JavaScript, Html and CSS, I also want learn C#, Java and other programming language. I like working on the Back-end more than on the Front-end, so I focus in learning Java and JavaScript more.
+My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil. I'm currently studying Analysis and systems development in <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://mazzafc.tech/">MazzaFC</a> as a Quality Assurance. I'm passionate for technology and want to work in CyberSecurity area but I also enjoy working with website creation using JavaScript, HTML and CSS. I want to learn C#, Java and other programming language. I like working with Back-end programming more than Front-end, so I focus my studies by learning Java and JavaScript more.
 
 ## <b> 📖 Knowledge:</b>
 
