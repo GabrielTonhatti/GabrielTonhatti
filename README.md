@@ -51,7 +51,8 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
   - ### <b> Libraries and Frameworks </b>
     - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-    <!-- - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code>
+    <!-- - <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/.NET-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
@@ -72,13 +73,18 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 - ### <b> Tools: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/-Eclipse-ffffff?style=flat&logo=Eclipse&logoColor=2c2253" alt="Eclipse"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
+   - <code><img height="25" src="https://img.shields.io/badge/-DataGrip-8683e7?style=flat&logo=DataGrip&logoColor=black" alt="DataGrip"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=ApacheNetBeansIDE" alt="NetBeans"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
-  <!-- + <code><img height="25" src="https://img.shields.io/badge/-PhpStorm-9644e7?style=flat&logo=PhpStorm&logoColor=black" alt="PhpStorm"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
+  <!--- <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" alt="Swagger"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code> -->
   - <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/-Spring Tool Suite-ffffff?style=flat&logo=Spring" alt="Spring Tool Suite"/></code>
 
 ## <b>📈 GitHub Stats:</b>
 
