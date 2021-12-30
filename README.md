@@ -44,15 +44,15 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 - ### <b> Back-end: </b>
 
   - <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
+  <!-- - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code> -->
   <!--+ <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/CSharp-white?style=flat&logo=CSharp&logoColor=68217a" alt="CSharp"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="Python"/></code> -->
 
   - ### <b> Libraries and Frameworks </b>
-    - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-    <!-- - <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=springboot" alt="Spring Boot"/></code>
+    <!-- - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/.NET-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
