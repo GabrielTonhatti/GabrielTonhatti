@@ -74,6 +74,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 - ### <b> Test: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Swagger-000?style=flat&logo=Swagger" alt="Swagger"/></code>
   <!-- - <code><img height="25" src="https://img.shields.io/badge/JUnit5-FFF?style=flat&logo=JUnit5" alt="JUnit5"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Selenium-FFF?style=flat&logo=Selenium" alt="Selenium"/></code> -->
 
