@@ -79,9 +79,9 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
   - <code><img height="25" src="https://img.shields.io/badge/Selenium-FFF?style=flat&logo=Selenium" alt="Selenium"/></code> -->
 
 - ### <b> Hostings: </b>
-  - <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel" alt="Vercel"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
 
 - ### <b> Tools: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
