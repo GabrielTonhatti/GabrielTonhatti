@@ -51,7 +51,8 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
   - ### <b> Libraries and Frameworks </b>
     - <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
-   <!-- - <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
+  <!-- - <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=Hibernate" alt="Hibernate"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Flyway-FFF?style=flat&logo=Flyway&logoColor=d20015" alt="Flyway"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
