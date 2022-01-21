@@ -68,9 +68,14 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
   - <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code> -->
 
 <!-- * ### <b> Mobile: </b>
-  + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/Ionic-000000?style=flat&logo=Ionic" alt="Ionic"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin" alt="Kotlin"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
   + <code><img height="25" src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React" alt="React"/></code> -->
+
+<!-- - ### <b> Container: </b>
+  + <code><img height="25" src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker" alt="Docker"/></code>
+  + <code><img height="25" src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=Kubernetes" alt="Kubernetes"/></code> -->
 
 - ### <b> Test: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
