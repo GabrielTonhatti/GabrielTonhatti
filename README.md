@@ -122,5 +122,3 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=estudos-java&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/estudos-java)
-
-![Snake animation](https://github.com/GabrielTonhatti/GabrielTonhatti/blob/output/github-contribution-grid-snake.svg)
