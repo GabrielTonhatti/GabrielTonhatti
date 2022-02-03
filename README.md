@@ -88,6 +88,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
   - <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel" alt="Vercel"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
+  
 
 - ### <b> Tools: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
@@ -95,7 +96,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
   - <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
    - <code><img height="25" src="https://img.shields.io/badge/-DataGrip-8683e7?style=flat&logo=DataGrip&logoColor=black" alt="DataGrip"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=ApacheNetBeansIDE" alt="NetBeans"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
   <!--- <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger" alt="Swagger"/></code>
@@ -120,6 +120,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-angular&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=estudos-java&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/estudos-java)
 
 ![Snake animation](https://github.com/GabrielTonhatti/GabrielTonhatti/blob/output/github-contribution-grid-snake.svg)
