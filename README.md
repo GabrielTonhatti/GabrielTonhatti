@@ -65,6 +65,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
   - <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
   <!-- +  <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code> -->
 
 <!-- * ### <b> Mobile: </b>
