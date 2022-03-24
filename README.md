@@ -60,13 +60,13 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     - <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code> -->
 
 - ### <b> DataBase: </b>
+  - <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code> 
   - <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
   <!-- +  <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code> -->
+  - <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code> -->
 
 <!-- * ### <b> Mobile: </b>
   + <code><img height="25" src="https://img.shields.io/badge/Ionic-000000?style=flat&logo=Ionic" alt="Ionic"/></code>
