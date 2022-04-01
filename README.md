@@ -40,19 +40,18 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&&logoColor=black" alt="TypeScript"/></code>
     <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code> -->
 
-     <!-- + ### <b> Libraries and Frameworks </b>
-        - <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/jQuery-0069b2?style=flat&logo=JQuery&logoColor=21ace2" alt="JQuery"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/Angular-ffffff?style=flat&logo=Angular&logoColor=dd0031" alt="Angular"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code> -->
+    + ### <b> Libraries and Frameworks </b>
+      - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code> 
+      <!-- - <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
+      - <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
+      - <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
+      - <code><img height="25" src="https://img.shields.io/badge/jQuery-0069b2?style=flat&logo=JQuery&logoColor=21ace2" alt="JQuery"/></code>
+      - <code><img height="25" src="https://img.shields.io/badge/Angular-ffffff?style=flat&logo=Angular&logoColor=dd0031" alt="Angular"/></code> -->
 
 -   ### <b> Back-end: </b>
 
     -   <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code>
     <!-- - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/PHP-7377ad?style=flat&logo=php&logoColor=black" alt="PHP"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/CSharp-white?style=flat&logo=CSharp&logoColor=68217a" alt="CSharp"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="Python"/></code> -->
 
@@ -61,7 +60,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
         -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
         <!-- - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/Laravel-ef3b2d?style=flat&logo=Laravel&logoColor=white" alt="Laravel"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/.NET-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code> -->
@@ -108,8 +106,8 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/-Insomnia-fff?style=flat&logo=Insomnia&logoColor=624FC5" alt="Insomnia"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
     <!--- <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code> -->
     -   <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code> -->
     -   <code><img height="25" src="https://img.shields.io/badge/-Spring Tool Suite-ffffff?style=flat&logo=Spring" alt="Spring Tool Suite"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA Ultimate-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA Ultimate"/></code>
 
