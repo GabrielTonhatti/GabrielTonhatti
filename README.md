@@ -5,16 +5,16 @@
 <p align="left">
 
   <a href="https://www.instagram.com/gabrieltonhatti/">
-    <img alt="Gabriel Tonhatti | Instagram" width="30px" height = "30px" src="https://www.itabirito.mg.leg.br/imagens/insta.png/image" />
+    <code><img height="25" src="https://img.shields.io/badge/Instagram-d9408a?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrieltonhatti/" alt="Instagram"/></code>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin">
-    <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
+    <code><img height="25" src="https://img.shields.io/badge/Linkedin-264de4?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin"/></code>
   </a>
   <a href="https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook">
-    <img height=30 src="https://img.shields.io/badge/-Facebook-0178f8?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/Gabriel.Tonhatti.1" />
+    <code><img height="25" src="https://img.shields.io/badge/Facebook-0178f8?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook"/></code>
   </a>
   <a href="mailto:gabrieltonhatti37@gmail.com" alt="Gmail">
-    <img height=30 src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrieltonhatti37@gmail.com" />
+    <code><img height="25" src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></code>
   </a>
 
 </p>
