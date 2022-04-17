@@ -58,6 +58,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="Python"/></code> -->
 
     -   ### <b> Libraries and Frameworks </b>
+        -   <code><img height="25" src="https://img.shields.io/badge/Flyway-fff?style=flat&logo=Flyway&logoColor=ff0107" alt="Flyway"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
         <!-- - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
@@ -73,6 +74,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
     <!-- -   <code><img height="25" src="https://img.shields.io/badge/Redis-000000?style=flat&logo=Redis" alt="Redis"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=RabbitMQ" alt="RabbitMQ"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Elasticsearch-000000?style=flat&logo=Elasticsearch&logoColor=00c0b3" alt="Elasticsearch"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code> -->
