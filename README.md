@@ -41,8 +41,12 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code> -->
 
     *   ### <b> Libraries and Frameworks </b>
-        -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code>
-        <!-- - <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap" alt="Bootstrap"/></code>
+        <!--
+        -   <code><img height="25" src="https://img.shields.io/badge/Redux-000?style=flat&logo=redux&logoColor=8347c9" alt="Redux"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Chakra UI-ffffff?style=flat&logo=chakraui" alt="Chakra UI"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Tailwind CSS-ffffff?style=flat&logo=tailwindcss" alt="Tailwind CSS"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Nuxt.JS-000000?style=flat&logo=Nuxt.JS" alt="Nuxt.JS"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
@@ -95,7 +99,9 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/JUnit5-FFF?style=flat&logo=JUnit5" alt="JUnit5"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Swagger-000?style=flat&logo=Swagger" alt="Swagger"/></code>
-    <!--  - <code><img height="25" src="https://img.shields.io/badge/Jenkins-fff?style=flat&logo=Jenkins&logoColor=000" alt="Jenkins"/></code>
+    <!--  
+    -   <code><img height="25" src="https://img.shields.io/badge/Jest-000?style=flat&logo=Jest&logoColor=c63d14" alt="Jest"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Jenkins-fff?style=flat&logo=Jenkins&logoColor=000" alt="Jenkins"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Selenium-FFF?style=flat&logo=Selenium" alt="Selenium"/></code> -->
 
 -   ### <b> Hostings: </b>
@@ -104,6 +110,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel" alt="Vercel"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
     <!-- - <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/AWS Lambda-d86613?style=flat&logo=aws-lambda&logoColor=fff" alt="aws lambda"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Amazon aws-223040?style=flat&logo=Amazon-AWS&logoColor=fd9900" alt="Amazon aws"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Microsoft Azure-000?style=flat&logo=Microsoft-Azure&logoColor=008ad7" alt="Microsoft Azure"/></code> -->
 
