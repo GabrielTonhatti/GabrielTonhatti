@@ -138,7 +138,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true">
 
-<image width="870em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielTonhatti&theme=dracula">
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielTonhatti&theme=dracula">
 
 [![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GabrielTonhatti's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
