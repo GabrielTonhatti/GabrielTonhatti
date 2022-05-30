@@ -99,9 +99,9 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/JUnit5-FFF?style=flat&logo=JUnit5" alt="JUnit5"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Swagger-000?style=flat&logo=Swagger" alt="Swagger"/></code>
-    <!--  
+    <!--
     -   <code><img height="25" src="https://img.shields.io/badge/Jest-000?style=flat&logo=Jest&logoColor=c63d14" alt="Jest"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/Jenkins-fff?style=flat&logo=Jenkins&logoColor=000" alt="Jenkins"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/Jenkins-fff?style=flat&logo=Jenkins&logoColor=000" alt="Jenkins"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Selenium-FFF?style=flat&logo=Selenium" alt="Selenium"/></code> -->
 
 -   ### <b> Hostings: </b>
@@ -138,7 +138,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true">
 
-[![GabrielTonhatti's Github Profile Summary Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<image width="860em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielTonhatti&theme=dracula">
 
 [![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GabrielTonhatti's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
