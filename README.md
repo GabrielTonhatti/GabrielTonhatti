@@ -138,9 +138,10 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true">
 
-[![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GabrielTonhatti's Github Profile Summary Detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-</div>
+[![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GabrielTonhatti's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-angular&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
