@@ -78,10 +78,13 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
     <!-- -   <code><img height="25" src="https://img.shields.io/badge/Redis-000000?style=flat&logo=Redis" alt="Redis"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=RabbitMQ" alt="RabbitMQ"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Elasticsearch-000000?style=flat&logo=Elasticsearch&logoColor=00c0b3" alt="Elasticsearch"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code> -->
+
+<!-- -   ### <b> Messenger: </b>
+    -   <code><img height="25" src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=RabbitMQ" alt="RabbitMQ"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/Apache Kafka-000000?style=flat&logo=apacheKafka" alt="Apache Kafka"/></code> -->
 
 <!-- ### <b> Mobile: </b>
   + <code><img height="25" src="https://img.shields.io/badge/Ionic-000000?style=flat&logo=Ionic" alt="Ionic"/></code>
