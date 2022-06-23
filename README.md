@@ -65,11 +65,12 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
         -   <code><img height="25" src="https://img.shields.io/badge/Flyway-fff?style=flat&logo=Flyway&logoColor=ff0107" alt="Flyway"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
-        <!-- - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
+        <!-- -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/.NET-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code> -->
+        -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Sequelize-000000?style=flat&logo=Sequelize" alt="Sequelize"/></code> -->
 
 -   ### <b> DataBase: </b>
     -   <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code>
@@ -112,9 +113,10 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel" alt="Vercel"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
-    <!-- - <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
+    <!-- -   <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/AWS Lambda-d86613?style=flat&logo=aws-lambda&logoColor=fff" alt="aws lambda"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Amazon aws-223040?style=flat&logo=Amazon-AWS&logoColor=fd9900" alt="Amazon aws"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/Amazon S3-223040?style=flat&logo=Amazon-S3" alt="Amazon S3"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Microsoft Azure-000?style=flat&logo=Microsoft-Azure&logoColor=008ad7" alt="Microsoft Azure"/></code> -->
 
 -   ### <b> Tools: </b>
