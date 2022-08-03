@@ -120,6 +120,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/Microsoft Azure-000?style=flat&logo=Microsoft-Azure&logoColor=008ad7" alt="Microsoft Azure"/></code> -->
 
 -   ### <b> Tools: </b>
+    -   <code><img height="25" src="https://img.shields.io/badge/Git-fff?style=flat&logo=Git" alt="Git"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Eclipse-ffffff?style=flat&logo=Eclipse&logoColor=2c2253" alt="Eclipse"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
