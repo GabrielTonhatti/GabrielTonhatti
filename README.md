@@ -41,6 +41,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code> -->
 
     *   ### <b> Libraries and Frameworks </b>
+        -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap" alt="Bootstrap"/></code>
         <!--
         -   <code><img height="25" src="https://img.shields.io/badge/Redux-000?style=flat&logo=redux&logoColor=8347c9" alt="Redux"/></code>
@@ -48,7 +49,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
         -   <code><img height="25" src="https://img.shields.io/badge/Tailwind CSS-ffffff?style=flat&logo=tailwindcss" alt="Tailwind CSS"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Next.JS-000000?style=flat&logo=Next.JS" alt="Next.JS"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Nuxt.JS-000000?style=flat&logo=Nuxt.JS" alt="Nuxt.JS"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/VueJs-000000?style=flat&logo=Vue.Js" alt="VueJs"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/jQuery-0069b2?style=flat&logo=JQuery&logoColor=21ace2" alt="JQuery"/></code>
         -   <code><img height="25" src="https://img.shields.io/badge/Angular-ffffff?style=flat&logo=Angular&logoColor=dd0031" alt="Angular"/></code> -->
