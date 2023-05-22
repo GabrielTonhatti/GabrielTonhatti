@@ -1,6 +1,6 @@
 # <b> Hello, I am Gabriel! </b>
 
-## <b> 💬 About me:</b>
+## <b> 💬 About:</b>
 
 <p align="left">
 
