@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/gabrieltonhatti/">
     <code><img height="25" src="https://img.shields.io/badge/Instagram-d9408a?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrieltonhatti/" alt="Instagram"/></code>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/gabriel-tonhatti/" alt="Linkedin">
     <code><img height="25" src="https://img.shields.io/badge/Linkedin-264de4?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin"/></code>
   </a>
   <a href="https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook">
@@ -19,7 +19,7 @@
 
 </p>
 
-My name is Gabriel Tonhatti Cardoso, I'm 20 years old, I live in Franca-SP Brazil. I'm currently studying systems analysis and development at <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.xbrain.com.br/">X-Brain Desenvolvimento de Sistemas</a> as a Junior Java Backend Developer. I am passionate about technology, I like to work with website creation. I like working with Back-end programming more than Front-end, so I focus my studies on learning more Java and JavaScript.
+My name is Gabriel Tonhatti Cardoso, I'm 22 years old, I live in Franca-SP Brazil. I have a degree in Systems Analysis and Development at <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and I work at <a href = "https://www.xbrain.com.br/">X-Brain Desenvolvimento de Sistemas</a> as a Junior III Fullstack Developer. I am passionate about technology, I like to work with website creation. I like working with Back-end programming more than Front-end, so I focus my studies on learning more Java and JavaScript.
 
 ## 📚 Experiences:
 
@@ -154,7 +154,6 @@ My name is Gabriel Tonhatti Cardoso, I'm 20 years old, I live in Franca-SP Brazi
 [![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GabrielTonhatti's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielTonhatti&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-angular&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-especialista-spring-rest&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-especialista-spring-rest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-especialista-jpa&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-especialista-jpa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
