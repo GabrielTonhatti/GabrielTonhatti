@@ -25,7 +25,7 @@ My name is Gabriel Tonhatti Cardoso, I'm 22 years old, I live in Franca-SP Brazi
 
 <p align="left">
 📌 Quality Assurance at MazzaFC Tecnologia da Informação(September 2021 - March 2022)
-<a href="https://www.xbrain.com.br/"> <br>📌 Junior Java Backend Developer at X-Brain Desenvolvimento de Sistemas (March 2022 - Currently) </a>
+<a href="https://www.xbrain.com.br/"> <br>📌 JJunior III Fullstack Developer at X-Brain Desenvolvimento de Sistemas (March 2022 - Currently) </a>
 </p>
 
 ## <b> 📖 Knowledge:</b>
